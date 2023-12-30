@@ -4,3 +4,5 @@ A strong compbio portfolio project consists of a compelling question/topic, rele
 1. Questions are sourced from the fields of neuroscience, stem cell biology, cancer biology, and immunology. They address topics of broad appeal to both academia and industry so you are not working on problems that no one cares about.
 2. Data are human, omics, and open access (not behind a paywall). There is an emphasis on single-cell data because it is a rich data modality used in literally every field of biology.
 3. Methods are well-documented Python packages.
+
+The main value that F1L provides are the Jupyter notebooks in which I show you how a working computational biologist begins to pry open a dataset. Use these to help you get started.
