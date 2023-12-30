@@ -1,22 +1,7 @@
-Figure One Lab (F1L) is an initiative to help people build a computational biology (compbio) portfolio by recreating Figure 1 of quality life science articles. After all, there is only so much you can learn from classes that are more concept than practice, Kaggle, EdX, etc.
+Figure One Lab (F1L) is an initiative to help people build a computational biology (compbio) portfolio by recreating Figure 1 of life science publications. The goal is to wrestle with the underlying data as the authors have in producing Figure 1. Taking apart then putting together the leading figure of, say, a Nature publication, is no small feat, and it makes for an excellent portfolio project.
 
-A meaningful compbio project usually has a few key elements:
-1. Question
-2. Data
-3. Method
-
-Because the question-data-method space is so large, F1L has selected a limited set of questions, data, and computational methods to provide a reasonable starting point.
-
-To maximize the transferability of your work, F1L insists on:
-1. Python
-2. Human data
-3. Disease data
-4. Omics, especially single-cell, data
-5. Biological topics with clear relevance to human health
-
-Topics you will encounter:
-1. Neuroscience
-2. Stem cell biology (brain organoids)
-3. Cancer biology
-4. Immunology
+A strong compbio portfolio project consists of a compelling question/topic, relevant data, and methods to analyze the data. Because the number of possible question-data-method combinations is so large, many people don't know where to start, so they don't. F1L has selected a set of questions/topics, data, and computational methods to provide a reasonable starting point, as well as to maximize the transferability of your work:
+1. Questions are sourced from the fields of neuroscience, stem cell biology, cancer biology, and immunology.
+2. Data are human, omics, especially single-cell.
+3. Methods are tried-and-true Python packages.
 
