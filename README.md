@@ -1,5 +1,23 @@
 **Figure One Lab** (**F1L**) is an initiative to help people build a computational biology (compbio) portfolio by recreating Figure 1 of life science publications. The goal is to wrestle with the underlying data as the authors have in producing Figure 1. Taking apart then putting together the leading figure of, say, a *Nature* publication, is no small feat, and it makes for an excellent compbio portfolio project.
 
+Problem 1, gap between theory and practice, scale of analysis is bigger, complexity of analysis, hence figure 1
+Problem 2, hard to get started
+Solution
+
+How It Works
+Jupyter notebooks, run through the basics
+Finish recreating Figure 1
+Above and Beyond, draw connections between studies, bring in your own study
+
+Intended Audience
+Prereqs
+College, masters, PhD, postdoc
+Wet lab to dry lab
+masters in bioinformatics
+anyone looking for an internship or job
+Academia and industry
+
+
 A strong compbio portfolio project consists of a compelling question/theme, relevant data, and methods to analyze the data. Because the number of possible question-data-method combinations is so large, most people never start due to decision paralysis. Of those who do start, many run into walls immediately due to inaccessible data and poorly maintained methods.
 
 To help you hit the ground running and to maximize the appeal of your work, F1L has thoughtfully curated a set of questions/themes, data, and methods that you can start with:
