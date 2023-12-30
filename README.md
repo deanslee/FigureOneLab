@@ -2,7 +2,7 @@ Figure One Lab (F1L) is an initiative to help people build a computational biolo
 
 A strong compbio portfolio project consists of a compelling question/topic, relevant data, and methods to analyze the data. Because the number of possible question-data-method combinations is so large, most people never start due to decision paralysis. Of those who do start, many run into walls immediately due to inaccessible data and poorly maintained methods. To help you hit the ground running and to maximize the appeal of your work, F1L has thoughtfully curated a set of questions/topics, data, and methods that you can start with:
 1. Questions are sourced from the fields of neuroscience, stem cell biology, cancer biology, and immunology. They address topics of broad appeal to both academia and industry so you are working on problems that people actually care about.
-2. Data are human, omics, and open access (not behind a paywall). There is an emphasis on single-cell data because it is a rich data modality used in literally every field of biology.
-3. Methods are well-documented Python packages.
+2. Data are human, omics, and open-access (not behind a paywall). There is an emphasis on single-cell data because it is a rich data modality used in literally every field of biology.
+3. Methods are well-documented Python packages. 
 
-The main value that F1L provides are the Jupyter notebooks in which I show you how a working computational biologist begins to pry open a dataset. Use these to help you get started.
+The main value that F1L provides are the Jupyter notebooks in which I show you how a working computational biologist applies methods to data to address questions. Use these to help you get started.
