@@ -1,12 +1,13 @@
-# **Figure One Lab** (**F1L**) is an initiative to help you build a computational biology (compbio) portfolio by re-enacting Figure 1 of biology papers.
+## **Figure One Lab**
+**Figure One Lab** (**F1L**) is an initiative to help you build a computational biology (compbio) portfolio by re-enacting Figure 1 of biology papers.
 
-# **Challenge 1: Doing Sufficiently Complex Projects**
+### **Challenge 1: Doing Sufficiently Complex Projects**
 
 While many excellent university courses, online tutorials, and in-person workshops have been created to teach compbio, most of them don't help you build a portfolio that approximates the full complexity of compbio work. They often feature projects with pre-cleaned data and an expected analysis outcome, which are too simple relative to what working computational biologists grapple with daily.
 
 F1L bridges this complexity gap. Using F1L to re-enact Figure 1 of biology papers, you can create portfolio projects that better reflect the full complexity of compbio work.
 
-# **Challenge 2: Knowing Where to Start**
+### **Challenge 2: Knowing Where to Start**
 
 So you are eager to start replicating Figure 1. But which paper do you choose? It is often hard to know where to start.
 
@@ -14,7 +15,7 @@ A strong compbio portfolio project consists of a broadly interesting **question/
 
 F1L shepherds you through these initial pitfalls so you don't get stuck from the start.
 
-# **Solution: F1L**
+### **Solution: F1L**
 
 To address Challenge 1 and 2, F1L has thoughtfully curated a set of questions/papers, data, and methods to get you started:
 1. **Questions/papers** are sourced from the fields of neuroscience, stem cell biology, cancer biology, and immunology. Figure 1 of these papers serve as our starting point. These papers address topics of broad appeal to both academia and industry so you are working on problems that people actually care about.
@@ -26,7 +27,7 @@ To address Challenge 1 and 2, F1L has thoughtfully curated a set of questions/pa
 2. **Data** accompanying these papers are open (not behind a paywall or in a restricted database), human, and multi-omics. F1L emphasizes single-cell RNA-sequencing (scRNA-seq) data at first because it is a rich data modality ubiquitous in every field of biology and a good gateway data modality that links to many other data modalities.
 3. **Methods** are well-documented Python packages. F1L does not emphasize method development because there are already plenty of powerful, popular methods that you can use to put together a brilliant portfolio. No need to re-invent the wheel.
 
-# **How It Works**
+### **How It Works**
 
 Choose a paper that piques your interest. Read it, probably several times. Skim through the supplemental figures and files as well. Use Google and ChatGPT to clarify difficult concepts. 
 
@@ -38,7 +39,7 @@ Your final product might be small or large, depending on how much follow-up inve
 
 If you need further guidance, you can email me directly at dean.sl.lee@gmail.com. I will do my best to give you pointers with the time I have.
 
-# **Intended Audience**
+### **Intended Audience**
 
 - Bare minimum prerequisites: 1 year of college-level biology (AP Biology also works), introductory Python, habit of googling or ChatGPT-ing to find answers
 - Anyone looking to build a strong portfolio for a compbio internship or job, in either academia or industry.
