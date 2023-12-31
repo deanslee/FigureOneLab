@@ -10,7 +10,7 @@ F1L bridges this complexity gap. Using F1L to re-enact Figure 1 of biology paper
 
 So you are eager to start replicating Figure 1. But which paper do you choose? It is often hard to know where to start.
 
-A strong compbio portfolio project consists of a broadly interesting **question/paper** (questions are usually described in a paper), relevant **data**, and **methods** to analyze said data. Because the number of possible question-data-method combinations is so large, most people get decision paralysis and never start. Of those who do manage to get started, many find that they are stuck with questions that are too niche, inaccessible data, or poorly maintained methods, and then they are back to square one.
+A strong compbio portfolio project consists of a broadly interesting **question/paper** (questions are usually described in papers), relevant **data**, and **methods** to analyze said data. Because the number of possible question-data-method combinations is so large, most people get decision paralysis and never start. Of those who do manage to get started, many find that they are stuck with questions that are too niche, inaccessible data, or poorly maintained methods, and then they are back to square one.
 
 F1L shepherds you through these initial pitfalls so you don't get stuck from the start.
 
