@@ -1,12 +1,15 @@
 **Figure One Lab** (**F1L**) is an initiative to help you build a computational biology (compbio) portfolio by re-enacting Figure 1 of biology papers.
 
 **Challenge 1: Appreciating the Full Complexity of Computational Biology Work**
+
 Computational biology is hard to teach because it sits at the juncture of several disciplines and is constantly evolving. While many university courses, online tutorials, and in-person workshops have been created to teach compbio, most of them stop short of helping the learners comprehend the full complexity of compbio work. They often feature pre-cleaned, toy datasets with an expected analysis outcome, nothing like what working computational biologists grapple with daily. F1L was created to bridge the gap between these educational resources and real compbio work. By re-enacting Figure 1 of carefully selected biology papers, you can better experience the full range of challenges that a working computational biologist needs to overcome to produce a useful result.
 
 **Challenge 2: Decision Paralysis**
+
 Even when compbio learners know that recreating Figure 1 from recent papers is a great way to approximate real compbio work and build their portfolio projects, it is often hard to get started. A strong compbio portfolio project consists of a broadly interesting question/paper, relevant data, and methods to analyze the data. Because the number of possible question-data-method combinations is so large, most people never start due to decision paralysis. Of those who do manage to get started, many find that they are stuck with questions that are too niche, inaccessible data, or poorly maintained methods, and then they are back to square one. This is typically where a compbio mentor steps in to guide the learner past these initial obstacles. However, most compbio learners do have the luxury of an attentive, competent compbio mentor. F1L was structured to fill this mentoring gap.
 
 **Solution: F1L**
+
 To address Challenge 1 and 2, F1L has thoughtfully curated a set of questions/papers, data, and methods to get you started:
 1. Questions/papers are sourced from the fields of neuroscience, stem cell biology, cancer biology, and immunology. Figure 1 of these papers serve as our inspiration. They address topics of broad appeal to both academia and industry so you are working on problems that people actually care about.
    - [Trevino_2021_Cell](https://www.sciencedirect.com/science/article/pii/S0092867421009429)
@@ -17,11 +20,15 @@ To address Challenge 1 and 2, F1L has thoughtfully curated a set of questions/pa
 3. Methods are well-documented Python packages. F1L does not emphasize method development because there are already plenty of powerful, popular methods that you can use to put together a brilliant portfolio. No need to re-invent the wheel.
 
 **How It Works**
-The main value that F1L provides are the Jupyter notebooks in which I demonstrate how a working computational biologist might think about Figure 1. Use these to get started. Run the Jupyter notebooks, see if you can understand what was done and why. **The notebooks only give you the bare minimum to get started quickly but does not clarify much of the ambiquity in the data. That's part of real compbio work I have reserved for you to do.** The notebooks only recreate a part of Figure 1. Try to finish recreating Figure 1. As you wrestle with the underlying data as the authors have in producing Figure 1, you should notice nuances in the data and its interpretation that warrant further inquiry. You are on your own from here on; let your curiosity and scientific instinct determine your next set of questions and analyses. This might lead you to reproduce other figures of the paper or bring in data from another paper of your own choosing. Your final product can be a little or a lot, but at the very least you should have the re-enactment of Figure 1 from one paper along with your conclusions from that figure.
+
+The main value that F1L provides are the Jupyter notebooks in which I demonstrate how a working computational biologist might think about Figure 1. Use these to get started. Run the Jupyter notebooks, see if you can understand what was done and why. **The notebooks only give you the bare minimum to get started quickly but does not clarify much of the ambiquity in the data. That's part of real compbio work I have reserved for you to do.** The notebooks only recreate a part of Figure 1. Try to finish recreating Figure 1. As you wrestle with the underlying data as the authors have in producing Figure 1, you should notice nuances in the data and its interpretation that warrant further inquiry. You are on your own from here on; let your curiosity and scientific instinct determine your next set of questions and analyses. This might lead you to reproduce other figures of the paper or bring in data from another paper of your own choosing.
+
+Your final product can be a little or a lot, but at the very least you should have the re-enactment of Figure 1 from one paper along with your conclusions from that figure.
 
 **Intended Audience**
-Bare minimum prerequisites: 1 year of college-level biology, introductory Python
-Anyone looking to build a strong portfolio for a compbio internship or job, in either academia or industry.
-Biologists trying to transition from wet lab to compbio work.
-Anyone with quantitative training - statistics, applied math, computer science, etc. - trying to transition to compbio work.
-Computational biologists trying to grow your expertise to include new data modalities or fields of biology.
+
+- Bare minimum prerequisites: 1 year of college-level biology, introductory Python
+- Anyone looking to build a strong portfolio for a compbio internship or job, in either academia or industry.
+- Biologists trying to transition from wet lab to compbio work.
+- Anyone with quantitative training - statistics, applied math, computer science, etc. - trying to transition to compbio work.
+- Computational biologists trying to grow your expertise to include new data modalities or fields of biology.
