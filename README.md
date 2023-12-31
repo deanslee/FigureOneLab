@@ -21,9 +21,13 @@ To address Challenge 1 and 2, F1L has thoughtfully curated a set of questions/pa
 
 **How It Works**
 
-The main value that F1L provides are the Jupyter notebooks in which I demonstrate how a working computational biologist might think about reconstructing Figure 1. Use these to get started. Run the Jupyter notebooks, see if you can understand what was done and why. **The notebooks only give you the bare minimum to get started quickly but does not clarify much of the ambiquity in the data. That ambiguity is an important component of real compbio work I have reserved for you to accomplish.** The notebooks only recreate a part of Figure 1. Try to reproduce the rest of Figure 1, but not exactly. As you wrestle with the data behind Figure 1, look for nuances in the interpretation of the data that warrant further investigation. You are on your own from here on; let your curiosity and scientific instinct determine your next set of questions and analyses. This might lead you to reproduce other figures of the paper or bring in data from another paper of your own choosing.
+The main value that F1L provides are the Jupyter notebooks in which I demonstrate how a working computational biologist might think about reconstructing Figure 1. Use these to get started. Run the Jupyter notebooks, see if you can understand what was done and why. **The notebooks only give you the bare minimum to get started quickly but does not clarify much of the ambiquity in the data. That ambiguity is an important component of real compbio work I have reserved for you to accomplish.**
+
+The notebooks only recreate a part of Figure 1. Try to reproduce the rest of Figure 1, **but not exactly**. As you wrestle with the data behind Figure 1, look for nuances in the interpretation of the data that warrant further investigation. You are on your own from here on; let your curiosity and scientific instinct determine your next set of questions and analyses. This might lead you to reproduce other figures of the paper or bring in data from another paper of your own choosing.
 
 Your final product can be a little or a lot, but at the very least you should have some semblance of Figure 1 from one paper as well as at least one nuanced observation you have made from the data.
+
+If you need further guidance, please email me directly at dean.sl.lee@gmail.com. I will do my best to give you pointers with the time I have.
 
 **Intended Audience**
 
