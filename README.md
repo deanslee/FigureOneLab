@@ -30,17 +30,17 @@ To address Challenge 1 and 2, F1L has thoughtfully curated a set of questions/pa
 
 Choose a paper that piques your interest. Read it, probably several times. Skim through the supplemental figures and files as well. Use Google and ChatGPT to clarify difficult concepts. 
 
-Then go through the Jupyter notebooks accompanying the paper. In these notebooks I demonstrate how a working computational biologist might think about reconstructing Figure 1. Run each code block and see if you can understand what was done and why. **The notebooks get you examining the data quickly but does not clarify much of the ambiquity surrounding the data. Untangling that ambiguity is an important aspect of compbio work I have reserved for you.** Refer back to the paper frequently as you analyze the data.
+Then go through the Jupyter notebooks accompanying the paper. In these notebooks I demonstrate how a working computational biologist might think about reconstructing Figure 1. Run each code block and see if you can understand what was done and why. The notebooks only recreate a part of Figure 1. Try to reproduce the rest of Figure 1, **but don't worry if you don't produce an exact replica**. That is not the point. As you wrestle with the data behind Figure 1, you should notice nuances in the interpretation of the data that warrant further investigation. Let your curiosity and scientific instinct determine your next set of questions and analyses. This might lead you to reproduce other figures of the paper or bring in data from another paper of your own choosing. This is where your project gets exciting.
 
-The notebooks only recreate a part of Figure 1. Try to reproduce the rest of Figure 1, **but don't worry if you don't produce an exact replica**. That is not the point. As you wrestle with the data behind Figure 1, you should notice nuances in the interpretation of the data that warrant further investigation. Let your curiosity and scientific instinct determine your next set of questions and analyses. This might lead you to reproduce other figures of the paper or bring in data from another paper of your own choosing. This is where your project gets exciting.
+**The notebooks get you examining the data quickly but does not clarify much of the ambiquity surrounding the data. Untangling that ambiguity is an important aspect of compbio work I have reserved for you.**
 
-Your final product can be a little or a lot, depending on how much follow-up investigation you do.
+Your final product might be small or large, depending on how much follow-up investigation you do.
 
 If you need further guidance, you can email me directly at dean.sl.lee@gmail.com. I will do my best to give you pointers with the time I have.
 
 **Intended Audience**
 
-- Bare minimum prerequisites: 1 year of college-level biology (AP Biology also works), introductory Python, habit of googling or ChatGPT-ing to finds answers
+- Bare minimum prerequisites: 1 year of college-level biology (AP Biology also works), introductory Python, habit of googling or ChatGPT-ing to find answers
 - Anyone looking to build a strong portfolio for a compbio internship or job, in either academia or industry.
 - Biologists trying to transition from wet lab to compbio work.
 - Anyone with quantitative training - statistics, applied math, computer science, etc. - trying to transition to compbio work.
