@@ -2,7 +2,7 @@
 
 **Challenge 1: Building Complex Portfolio Projects**
 
-While many excellent university courses, online tutorials, and in-person workshops have been created to teach compbio, most of them don't help you build a portfolio that approximates the full complexity of compbio work. They often feature projects with pre-cleaned, toy data and an expected analysis outcome, which are too simple relative to what working computational biologists grapple with daily.
+While many excellent university courses, online tutorials, and in-person workshops have been created to teach compbio, most of them don't help you build a portfolio that approximates the full complexity of compbio work. They often feature projects with pre-cleaned data and an expected analysis outcome, which are too simple relative to what working computational biologists grapple with daily.
 
 F1L bridges this complexity gap. Using F1L to re-enact Figure 1 of biology papers, you can create portfolio projects that better reflect the full complexity of compbio work.
 
