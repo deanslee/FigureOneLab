@@ -22,20 +22,21 @@ To address Challenge 1 and 2, F1L has thoughtfully curated a set of questions/pa
    - [Uzquiano_2022_Cell](https://www.sciencedirect.com/science/article/pii/S0092867422011680) Human cortical organoids
    - [Schmidt_2022_Science](https://www.science.org/doi/10.1126/science.abj4008) CRISPR screen in human T cells
    - [Kinker_2020_NatureGenetics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8135089/) Biological programs active across commonly used cancer cell lines
+   - More will be added over time.
 2. **Data** are open (not behind a paywall or in a restricted database), human, and multi-omics. F1L emphasizes single-cell RNA-sequencing (scRNA-seq) data at first because it is a rich data modality ubiquitous in every field of biology and a good gateway data modality that links to many other data modalities.
 3. **Methods** are well-documented Python packages. F1L does not emphasize method development because there are already plenty of powerful, popular methods that you can use to put together a brilliant portfolio. No need to re-invent the wheel.
 
 **How It Works**
 
-Choose a paper that piques your interest. Read it, probably several times. Use Google and ChatGPT to clarify difficult concepts.
+Choose a paper that piques your interest. Read it, probably several times. Skim through the supplemental figures and files as well. Use Google and ChatGPT to clarify difficult concepts. 
 
-Then go through the Jupyter notebooks that accompany the paper. In these notebooks I demonstrate how a working computational biologist might think about reconstructing Figure 1. Use these to get started. Run the Jupyter notebooks, see if you can understand what was done and why. **The notebooks gets you examining the data quickly but does not clarify much of the ambiquity in the data. Untangling that ambiguity is an important aspect of real compbio work I have reserved for you.** You will have to read the paper that Figure 1 comes from, probably several times. You will rummage thorugh the paper's methods section and supplemental figures and files.
+Then go through the Jupyter notebooks accompanying the paper. In these notebooks I demonstrate how a working computational biologist might think about reconstructing Figure 1. Run each code block and see if you can understand what was done and why. **The notebooks get you examining the data quickly but does not clarify much of the ambiquity in the data. Untangling that ambiguity is an important aspect of real compbio work I have reserved for you.** Refer back to the paper frequently for the context of the data.
 
-The notebooks only recreate a part of Figure 1. Try to reproduce the rest of Figure 1, **but not exactly**. As you wrestle with the data behind Figure 1, look for nuances in the interpretation of the data that warrant further investigation. You are on your own from here on; let your curiosity and scientific instinct determine your next set of questions and analyses. This might lead you to reproduce other figures of the paper or bring in data from another paper of your own choosing.
+The notebooks only recreate a part of Figure 1. Try to reproduce the rest of Figure 1, **but don't worry if you get an exact replica**. That is not the point. As you wrestle with the data behind Figure 1, you should notice nuances in the interpretation of the data that warrant further investigation. Let your curiosity and scientific instinct determine your next set of questions and analyses. This might lead you to reproduce other figures of the paper or bring in data from another paper of your own choosing. This is where your project gets exciting.
 
-Your final product can be a little or a lot, but at the very least you should have some semblance of Figure 1 from one paper as well as at least one nuanced observation you have made from the data.
+Your final product can be a little or a lot, depending on how much follow-up investigation you do.
 
-If you need further guidance, please email me directly at dean.sl.lee@gmail.com. I will do my best to give you pointers with the time I have.
+If you need further guidance, you can email me directly at dean.sl.lee@gmail.com. I will do my best to give you pointers with the time I have.
 
 **Intended Audience**
 
