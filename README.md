@@ -1,6 +1,6 @@
 **Figure One Lab** (**F1L**) is an initiative to help you build a computational biology (compbio) portfolio by re-enacting Figure 1 of biology papers.
 
-**Challenge 1: A Complex Portfolio**
+**Challenge 1: Building Complex Portfolio Projects**
 
 While many excellent university courses, online tutorials, and in-person workshops have been created to teach compbio, most of them don't help you build a portfolio that approximates the full complexity of compbio work. They often feature projects with pre-cleaned, toy data and an expected analysis outcome, which are too simple relative to what working computational biologists grapple with daily.
 
