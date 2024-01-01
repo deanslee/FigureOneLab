@@ -39,7 +39,8 @@ Your final product might be small or large, depending on how much follow-up inve
 
 If you need further guidance, you can email me directly at dean.sl.lee@gmail.com. I will do my best to give you pointers with the time I have.
 
-A simple directory structure you can use to organize your work.
+A simple directory structure you can use to organize your work:
+
 FigureOneLab/trevino/
 - data/ (This holds all the "raw" files, PDFs, etc., related to the paper to do your analysis.)
 - outs/ (This holds all the intermediate and final outputs of your analysis.)
