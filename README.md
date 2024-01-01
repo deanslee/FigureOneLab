@@ -29,7 +29,13 @@ To address Challenge 1 and 2, F1L has thoughtfully curated a set of questions/pa
 
 ### **How It Works**
 
-Choose a paper that piques your interest. Read it, probably several times. Skim through the supplemental figures and files as well. Use Google and ChatGPT to clarify difficult concepts. 
+Choose a paper that piques your interest. Read it, probably several times. Sleuth around to find how the authors shared their data. Skim through the supplemental figures and files as well. Use Google and ChatGPT to clarify difficult concepts.
+
+A simple directory structure you can use to organize your work.
+FigureOneLab/trevino/
+- data/
+- outs/
+- filename.ipynb
 
 Then go through the Jupyter notebooks accompanying the paper. In these notebooks I demonstrate how a working computational biologist might think about reconstructing Figure 1. Run each code block and see if you can understand what was done and why. The notebooks only recreate a part of Figure 1, leaving much of the ambiguity surrounding the data for you to untangle. Try to reproduce the rest of Figure 1, but **don't worry if you don't produce an exact replica**. That is not the point.
 
