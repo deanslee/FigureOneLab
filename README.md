@@ -41,15 +41,15 @@ If you need further guidance, you can email me directly at dean.sl.lee@gmail.com
 
 A simple directory structure you can use to organize your work:
 
-<img width="325" alt="Screen Shot 2024-01-01 at 5 42 52 PM" src="https://github.com/deanslee/FigureOneLab/assets/35471368/43a129e4-fa33-469a-9206-f07d9854f071">
+- <img width="325" alt="Screen Shot 2024-01-01 at 5 42 52 PM" src="https://github.com/deanslee/FigureOneLab/assets/35471368/43a129e4-fa33-469a-9206-f07d9854f071">
 
-FigureOneLab/trevino/data/ (This holds all the "raw" files, PDFs, etc., related to the paper to do your analysis.)
+- FigureOneLab/trevino/data/ (This holds all the "raw" files, PDFs, etc., related to the paper to do your analysis.)
 
-FigureOneLab/trevino/outs/ (This holds all the intermediate and final outputs of your analysis.)
+- FigureOneLab/trevino/outs/ (This holds all the intermediate and final outputs of your analysis.)
 
-FigureOneLab/trevino/filename1.ipynb (Your first analysis)
+- FigureOneLab/trevino/filename1.ipynb (Your first analysis)
 
-FigureOneLab/trevino/filename2.ipynb (Your second analysis) 
+- FigureOneLab/trevino/filename2.ipynb (Your second analysis) 
 
 ### **Intended Audience**
 
