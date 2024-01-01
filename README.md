@@ -31,12 +31,6 @@ To address Challenge 1 and 2, F1L has thoughtfully curated a set of questions/pa
 
 Choose a paper that piques your interest. Read it, probably several times. Sleuth around to find how the authors shared their data. Skim through the supplemental figures and files as well. Use Google and ChatGPT to clarify difficult concepts.
 
-A simple directory structure you can use to organize your work.
-FigureOneLab/trevino/
-- data/
-- outs/
-- filename.ipynb
-
 Then go through the Jupyter notebooks accompanying the paper. In these notebooks I demonstrate how a working computational biologist might think about reconstructing Figure 1. Run each code block and see if you can understand what was done and why. The notebooks only recreate a part of Figure 1, leaving much of the ambiguity surrounding the data for you to untangle. Try to reproduce the rest of Figure 1, but **don't worry if you don't produce an exact replica**. That is not the point.
 
 As you wrestle with the data behind Figure 1, you should notice nuances in the interpretation of the data that warrant further investigation. Let your curiosity and scientific instinct determine your next set of questions and analyses. This might lead you to seek validation of your ideas in other figures of the same paper or in data from a new paper. This is where your project gets exciting!
@@ -45,6 +39,13 @@ Your final product might be small or large, depending on how much follow-up inve
 
 If you need further guidance, you can email me directly at dean.sl.lee@gmail.com. I will do my best to give you pointers with the time I have.
 
+A simple directory structure you can use to organize your work.
+FigureOneLab/trevino/
+- data/ (This holds all the "raw" files, PDFs, etc., related to the paper to do your analysis.)
+- outs/ (This holds all the intermediate and final outputs of your analysis.)
+- filename1.ipynb
+- filename2.ipynb
+  
 ### **Intended Audience**
 
 - Bare minimum prerequisites: 1 year of college-level biology (AP Biology also works), introductory Python, habit of googling or ChatGPT-ing to find answers
