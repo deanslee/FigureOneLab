@@ -39,7 +39,7 @@ If you need further guidance, you can email me directly at dean.sl.lee@gmail.com
 
 A simple directory structure that you might use to organize your work:
 
-- <img width="325" alt="Screen Shot 2024-01-01 at 5 42 52 PM" src="https://github.com/deanslee/FigureOneLab/assets/35471368/43a129e4-fa33-469a-9206-f07d9854f071">
+<img width="325" alt="Screen Shot 2024-01-01 at 5 42 52 PM" src="https://github.com/deanslee/FigureOneLab/assets/35471368/43a129e4-fa33-469a-9206-f07d9854f071">
 
 - FigureOneLab/trevino/data/ holds all the "raw" files, PDFs, etc., from the paper needed to re-enact Figure 1.
 
