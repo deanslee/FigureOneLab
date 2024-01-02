@@ -1,5 +1,6 @@
 ## **Figure One Lab**
-**Figure One Lab** (**F1L**) is an initiative to help you build a computational biology (compbio) portfolio by re-enacting Figure 1 of biology papers.
+
+### **Figure One Lab** (**F1L**) is an initiative to help you build a computational biology (compbio) portfolio by re-enacting Figure 1 of biology papers.
 
 ### **Challenge 1: Doing Sufficiently Complex Projects**
 
