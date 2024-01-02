@@ -35,8 +35,6 @@ Then go through the Jupyter notebooks accompanying the paper. In these notebooks
 
 Your final product might be small or large, depending on how much follow-up investigation you do.
 
-If you need further guidance, you can email me directly at dean.sl.lee@gmail.com. I will do my best to give you pointers with the time I have.
-
 A simple directory structure that you might use to organize your work:
 
 <img width="325" alt="Screen Shot 2024-01-01 at 5 42 52 PM" src="https://github.com/deanslee/FigureOneLab/assets/35471368/43a129e4-fa33-469a-9206-f07d9854f071">
@@ -57,3 +55,7 @@ A simple directory structure that you might use to organize your work:
 - Anyone with quantitative training - statistics, applied math, computer science, etc. - trying to transition to compbio work.
 - Computational biologists trying to develop an expertise in new data modalities or fields of biology.
 - If you are already analyzing data in an academic lab for a manuscript with the help of a mentor, you don't need F1L.
+
+### Mentoring
+
+If you need further guidance with how to use F1L, you can email me directly at dean.sl.lee@gmail.com. Put "F1L" somewhere in the subject of the email. I will do my best to give you pointers with the time I have.
