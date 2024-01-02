@@ -55,7 +55,7 @@ A simple directory structure that you might use to organize your work:
 - Biologists trying to transition from wet lab to compbio work.
 - Anyone with quantitative training - statistics, applied math, computer science, etc. - trying to transition to compbio work.
 - Computational biologists trying to develop an expertise in new data modalities or fields of biology.
-- If you are already analyzing data in an academic lab for a manuscript with the help of a mentor, you don't need F1L.
+- If you are already analyzing data in an academic or industry setting with the help of a compbio mentor, you probably don't need F1L. Take full advantage of your mentor!
 
 ### Mentoring
 
