@@ -1,5 +1,6 @@
 ## **Figure One Lab**
-**Figure One Lab** (**F1L**) is an initiative to help you build a computational biology (compbio) portfolio by re-enacting Figure 1 of biology papers.
+
+### **Figure One Lab** (**F1L**) is an initiative to help you build a computational biology (compbio) portfolio by re-enacting Figure 1 of biology papers.
 
 ### **Challenge 1: Doing Sufficiently Complex Projects**
 
@@ -29,15 +30,23 @@ To address Challenge 1 and 2, F1L has thoughtfully curated a set of questions/pa
 
 ### **How It Works**
 
-Choose a paper that piques your interest. Read it, probably several times. Skim through the supplemental figures and files as well. Use Google and ChatGPT to clarify difficult concepts. 
+Choose one of the F1L papers that piques your interest. Read it, probably several times. Sleuth around to determine how the authors shared their data; then download it. Skim through the supplemental figures and files as well. Use Google and ChatGPT to clarify difficult concepts.
 
-Then go through the Jupyter notebooks accompanying the paper. In these notebooks I demonstrate how a working computational biologist might think about reconstructing Figure 1. Run each code block and see if you can understand what was done and why. The notebooks only recreate a part of Figure 1, leaving much of the ambiguity surrounding the data for you to untangle. Try to reproduce the rest of Figure 1, but **don't worry if you don't produce an exact replica**. That is not the point.
-
-As you wrestle with the data behind Figure 1, you should notice nuances in the interpretation of the data that warrant further investigation. Let your curiosity and scientific instinct determine your next set of questions and analyses. This might lead you to seek validation of your ideas in other figures of the same paper or in data from a new paper. This is where your project gets exciting!
+Then go through the Jupyter notebooks accompanying the paper. In these notebooks I demonstrate how a working computational biologist might think about reconstructing Figure 1. Run each code block. See if you can understand what was done and why. The notebooks only recreate a fraction of Figure 1, leaving much of the ambiguity surrounding the data for you to untangle. Try to reproduce the rest of Figure 1, but know that **the point isn't to produce an exact replica**. The point is that as you examine and wrestle with the data behind Figure 1, you should notice nuances in the interpretation of the data that warrant further investigation. Let your curiosity and scientific instinct determine your next set of questions. This might lead you to validate your ideas with other data from the same paper or with data from a new paper. This is where your project gets exciting!
 
 Your final product might be small or large, depending on how much follow-up investigation you do.
 
-If you need further guidance, you can email me directly at dean.sl.lee@gmail.com. I will do my best to give you pointers with the time I have.
+A simple directory structure that you might use to organize your work:
+
+<img width="325" alt="Screen Shot 2024-01-01 at 5 42 52 PM" src="https://github.com/deanslee/FigureOneLab/assets/35471368/43a129e4-fa33-469a-9206-f07d9854f071">
+
+- FigureOneLab/trevino/data/ holds all the "raw" files, PDFs, etc., from the paper needed to re-enact Figure 1.
+
+- FigureOneLab/trevino/outs/ holds all the intermediate and final outputs of your analysis.
+
+- FigureOneLab/trevino/filename1.ipynb is your first analysis.
+
+- FigureOneLab/trevino/filename2.ipynb is your second analysis. You get the drift.
 
 ### **Intended Audience**
 
@@ -46,4 +55,8 @@ If you need further guidance, you can email me directly at dean.sl.lee@gmail.com
 - Biologists trying to transition from wet lab to compbio work.
 - Anyone with quantitative training - statistics, applied math, computer science, etc. - trying to transition to compbio work.
 - Computational biologists trying to develop an expertise in new data modalities or fields of biology.
-- If you are already analyzing data in an academic lab for a manuscript with the help of a mentor, you don't need F1L.
+- If you are already analyzing data in an academic or industry setting with the help of a compbio mentor, you probably don't need F1L. Take full advantage of your mentor!
+
+### Mentoring
+
+If you need further guidance with how to use F1L, you can email me directly at dean.sl.lee@gmail.com. Put "F1L" somewhere in the subject of the email. I will do my best to give you pointers with the time I have.
