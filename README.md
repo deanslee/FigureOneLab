@@ -24,6 +24,7 @@ To address Challenge 1 and 2, F1L has thoughtfully curated a set of questions/pa
    - [Uzquiano_2022_Cell](https://www.sciencedirect.com/science/article/pii/S0092867422011680) Human cortical organoids
    - [Schmidt_2022_Science](https://www.science.org/doi/10.1126/science.abj4008) CRISPR screen in human T cells
    - [Kinker_2020_NatureGenetics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8135089/) Biological programs active across commonly used cancer cell lines
+   - [Hedou_2024_NatureBiotechnology](https://www.nature.com/articles/s41587-023-02033-x) Finding omic biomarkers, coming soon
    - More will be added over time.
 2. **Data** accompanying these papers are open (not behind a paywall or in a restricted database), human, and multi-omics. F1L emphasizes single-cell RNA-sequencing (scRNA-seq) data at first because it is a rich data modality ubiquitous in every field of biology and a good gateway data modality that links to many other data modalities.
 3. **Methods** are well-documented Python packages. F1L does not emphasize method development because there are already plenty of powerful, popular methods that you can use to put together a brilliant portfolio. No need to re-invent the wheel.
