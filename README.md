@@ -22,7 +22,7 @@ To address Challenge 1 and 2, F1L has thoughtfully curated a set of questions/pa
 1. **Questions/papers** are sourced from the fields of neuroscience, stem cell biology, cancer biology, and immunology. Figure 1 of these papers serve as our starting point. These papers address topics of broad appeal to both academia and industry so you are working on problems that people actually care about.
    - [Trevino_2021_Cell](https://www.sciencedirect.com/science/article/pii/S0092867421009429) Human cortex development
    - [Uzquiano_2022_Cell](https://www.sciencedirect.com/science/article/pii/S0092867422011680) Human cortical organoids
-   - [Schmidt_2022_Science](https://www.science.org/doi/10.1126/science.abj4008) CRISPR screen in human T cells, coming soon
+   - [Schmidt_2022_Science](https://www.science.org/doi/10.1126/science.abj4008) CRISPR screen in human T cells
    - [Kinker_2020_NatureGenetics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8135089/) Biological programs active across commonly used cancer cell lines
    - [Hedou_2024_NatureBiotechnology](https://www.nature.com/articles/s41587-023-02033-x) Finding omic biomarkers, coming soon
    - More will be added over time.
