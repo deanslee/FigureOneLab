@@ -27,7 +27,7 @@ To address Challenge 1 and 2, F1L has thoughtfully curated a set of questions/pa
    - [Hedou_2024_NatureBiotechnology](https://www.nature.com/articles/s41587-023-02033-x) Finding omic biomarkers, coming soon
    - More will be added over time.
 2. **Data** accompanying these papers are open (not behind a paywall or in a restricted database), human, and multi-omics. F1L emphasizes single-cell RNA-sequencing (scRNA-seq) data at first because it is a rich data modality ubiquitous in every field of biology and a good gateway data modality that links to many other data modalities.
-3. **Methods** are well-documented Python packages. F1L does not emphasize method development because there are already plenty of powerful, popular methods that you can use to put together a brilliant portfolio. No need to re-invent the wheel.
+3. **Methods** are well-documented Python packages. F1L does not emphasize method development because there are already plenty of powerful, popular methods that you can use to put together a brilliant portfolio. No need to reinvent the wheel.
 
 ### **How It Works**
 
