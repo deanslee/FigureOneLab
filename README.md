@@ -58,6 +58,13 @@ A simple directory structure that you might use to organize your work:
 - Computational biologists trying to develop an expertise in new data modalities or fields of biology.
 - If you are already analyzing data in an academic or industry setting with the help of a compbio mentor, you probably don't need F1L. Take full advantage of your mentor!
 
+### **A Concise List of Helpful Resources**
+- [3Blue1Brown](https://www.youtube.com/c/3blue1brown) for linear algebra
+- [Points of Significance](https://www.nature.com/collections/qghhqm/pointsofsignificance) for statistics
+- [StatQuest!!!](https://statquest.org/) for statistics
+- [STAT115 by Shirley Liu](https://www.youtube.com/playlist?list=PLeB-Dlq-v6tY3QLdQBA7rwb4a7fK9mLpv) for an introduction to compbio
+- [Best practices for scRNA-seq data analysis](https://www.sc-best-practices.org/preamble.html) the best resource of its kind so far
+
 ### Mentoring
 
 If you need further guidance with how to use F1L, you can email me directly at dean.sl.lee@gmail.com. Put "F1L" somewhere in the subject of the email. I will do my best to give you pointers with the time I have.
