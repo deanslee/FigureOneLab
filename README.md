@@ -27,7 +27,7 @@ To address Challenge 1 and 2, F1L has thoughtfully curated a set of questions/pa
    - [Hedou_2024_NatureBiotechnology](https://www.nature.com/articles/s41587-023-02033-x) Finding omic biomarkers, coming soon
    - More will be added over time.
 2. **Data** accompanying these papers are open (not behind a paywall or in a restricted database), human, and multi-omics. F1L emphasizes single-cell RNA-sequencing (scRNA-seq) data at first because it is a rich data modality ubiquitous in every field of biology and a good gateway data modality that links to many other data modalities.
-3. **Methods** are well-documented Python packages. F1L does not emphasize method development because there are already plenty of powerful, popular methods that you can use to put together a brilliant portfolio. No need to re-invent the wheel.
+3. **Methods** are well-documented Python packages. F1L does not emphasize method development because there are already plenty of powerful, popular methods that you can use to put together a brilliant portfolio. No need to reinvent the wheel.
 
 ### **How It Works**
 
@@ -41,7 +41,7 @@ A simple directory structure that you might use to organize your work:
 
 <img width="325" alt="Screen Shot 2024-01-01 at 5 42 52 PM" src="https://github.com/deanslee/FigureOneLab/assets/35471368/43a129e4-fa33-469a-9206-f07d9854f071">
 
-- FigureOneLab/trevino/data/ holds all the "raw" files, PDFs, etc., from the paper needed to re-enact Figure 1.
+- FigureOneLab/trevino/data/ holds all the "raw" files, PDFs, code provided by authors, Excel spreadsheets, etc., from the paper needed to re-enact Figure 1.
 
 - FigureOneLab/trevino/outs/ holds all the intermediate and final outputs of your analysis.
 
@@ -57,6 +57,13 @@ A simple directory structure that you might use to organize your work:
 - Anyone with quantitative training - statistics, applied math, computer science, etc. - trying to transition to compbio work.
 - Computational biologists trying to develop an expertise in new data modalities or fields of biology.
 - If you are already analyzing data in an academic or industry setting with the help of a compbio mentor, you probably don't need F1L. Take full advantage of your mentor!
+
+### **A Concise List of Helpful Resources**
+- [3Blue1Brown](https://www.youtube.com/c/3blue1brown) for linear algebra
+- [Points of Significance](https://www.nature.com/collections/qghhqm/pointsofsignificance) for statistics
+- [StatQuest!!!](https://statquest.org/) for statistics
+- [STAT115 by Shirley Liu](https://www.youtube.com/playlist?list=PLeB-Dlq-v6tY3QLdQBA7rwb4a7fK9mLpv) for an introduction to compbio
+- [Best practices for scRNA-seq data analysis](https://www.sc-best-practices.org/preamble.html) the best resource of its kind so far
 
 ### Mentoring
 
