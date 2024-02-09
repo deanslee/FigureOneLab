@@ -2,4 +2,4 @@
 */.ipynb_checkpoints/*
 **/.DS_Store
 .pybiomart.sqlite
-.gz
+*.gz
