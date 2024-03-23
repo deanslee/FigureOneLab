@@ -65,7 +65,3 @@ A simple directory structure that you might use to organize your work:
 - [STAT115 by Shirley Liu](https://www.youtube.com/playlist?list=PLeB-Dlq-v6tY3QLdQBA7rwb4a7fK9mLpv) for an introduction to compbio
 - [Best practices for scRNA-seq data analysis](https://www.sc-best-practices.org/preamble.html) the best resource of its kind so far
 - [Glittr](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc) a collection of Git repos with bioinformatics training material
-
-### Mentoring
-
-If you need further guidance with how to use F1L, you can email me directly at dean.sl.lee@gmail.com. Put "F1L" somewhere in the subject of the email. I will do my best to give you pointers with the time I have.
