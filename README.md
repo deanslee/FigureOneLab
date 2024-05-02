@@ -4,7 +4,7 @@
 
 ### **What is in F1L?**
 
-F1L contains a curated set of questions, data, and methods to get you started:
+F1L contains a curated set of questions, data, and methods that you can use to build a strong compbio project:
 1. **Questions** presented in the form of papers are sourced from the fields of cancer biology, immunology, neuroscience, stem cell biology. Figure 1 of these papers serve as our starting point. These papers address topics of broad scientific appeal to both academia and industry so you are working on problems that people actually care about.
    - [Kinker_2020_NatureGenetics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8135089/) is study of biological programs in commonly used cancer cell lines.
    - [Schmidt_2022_Science](https://www.science.org/doi/10.1126/science.abj4008) is a study of CRISPR-edited human T cells.
