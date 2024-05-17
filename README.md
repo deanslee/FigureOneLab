@@ -1,8 +1,6 @@
-## **Figure One Lab**
+## **Figure One Lab** (**F1L**)
 
-### **Introducing Figure One Lab** (**F1L**)
-
-F1L helps users hone computational biology skills by re-enacting Figure 1 of modern biology papers. [This article explains the purpose and design of F1L](https://www.linkedin.com/pulse/introducing-figure-one-lab-f1l-dean-lee-u0wff?utm_source=share&utm_medium=member_ios&utm_campaign=share_via)
+F1L helps users hone computational biology skills by re-enacting Figure 1 of modern biology papers. [This article](https://www.linkedin.com/pulse/introducing-figure-one-lab-f1l-dean-lee-u0wff?utm_source=share&utm_medium=member_ios&utm_campaign=share_via) explains the purpose and design of F1L.
 
 ### **What is in F1L?**
 
