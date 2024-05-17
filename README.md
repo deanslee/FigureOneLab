@@ -2,6 +2,8 @@
 
 ### **Figure One Lab** (**F1L**) is a makerspace to help you hone computational biology skills by re-enacting Figure 1 of modern biology papers.
 
+[Article introducing F1L](https://www.linkedin.com/pulse/introducing-figure-one-lab-f1l-dean-lee-u0wff?utm_source=share&utm_medium=member_ios&utm_campaign=share_via)
+
 ### **What is in F1L?**
 
 F1L contains a curated set of questions, data, and methods that you can use to build a strong compbio project:
